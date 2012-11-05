@@ -1,0 +1,13 @@
+{
+	"name": "mongodb-course-m101-hw2.2",
+	"version": "0.0.1",
+	"author": "Chris Saylor <cjsaylor@gmail.com>",
+	"description": "Hw2.2 solution.",
+	"dependencies": {
+		"mongodb": "1.1.x",	
+		"underscore": "1.3.x"
+	},
+	"engine": {
+		"node": "0.8.x"
+	}
+}
